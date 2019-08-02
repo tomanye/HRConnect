@@ -1,0 +1,9 @@
+C:\Users\Dev\OneDrive\ErpOne\HRConnect\src\Libraries\Core.Db\bin\Debug\netstandard2.0\Core.Db.deps.json
+C:\Users\Dev\OneDrive\ErpOne\HRConnect\src\Libraries\Core.Db\bin\Debug\netstandard2.0\Core.Db.dll
+C:\Users\Dev\OneDrive\ErpOne\HRConnect\src\Libraries\Core.Db\bin\Debug\netstandard2.0\Core.Db.pdb
+C:\Users\Dev\OneDrive\ErpOne\HRConnect\src\Libraries\Core.Db\obj\Debug\netstandard2.0\Core.Db.csprojAssemblyReference.cache
+C:\Users\Dev\OneDrive\ErpOne\HRConnect\src\Libraries\Core.Db\obj\Debug\netstandard2.0\Core.Db.csproj.CoreCompileInputs.cache
+C:\Users\Dev\OneDrive\ErpOne\HRConnect\src\Libraries\Core.Db\obj\Debug\netstandard2.0\Core.Db.AssemblyInfoInputs.cache
+C:\Users\Dev\OneDrive\ErpOne\HRConnect\src\Libraries\Core.Db\obj\Debug\netstandard2.0\Core.Db.AssemblyInfo.cs
+C:\Users\Dev\OneDrive\ErpOne\HRConnect\src\Libraries\Core.Db\obj\Debug\netstandard2.0\Core.Db.dll
+C:\Users\Dev\OneDrive\ErpOne\HRConnect\src\Libraries\Core.Db\obj\Debug\netstandard2.0\Core.Db.pdb
